@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.pikpng.com/pngl/m/130-1305130_logo-pens-logo-pens-png-3-png-image.png" width="400" alt="Logo Pens"></p>
+<p align="center"><img src="https://www.vippng.com/png/detail/146-1467044_logo-pens-logo-pens-png-3-png-image.png" width="400" alt="Logo Pens"></p>
 
 <p align="center">
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
@@ -24,9 +24,9 @@ Berikut tentang tempat terlasanakanya Kerja Praktik:
 
 2. Buat branch baru
 
-```bash
-git checkout -b revisi
+   ```bash
+   git checkout -b revisi
 
-```
+   ```
 
 3. Silahkan revisi
