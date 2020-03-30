@@ -17,7 +17,7 @@ Berikut tentang tempat terlasanakanya Kerja Praktik:
 1. Clone Repository
 
    ```bash
-   git clone https://github.com/tailwindcss/playground.git laporan-kerjapraktik-pte-bppt
+   git clone https://github.com/pratamaizzat/laporan-kerja-praktik.git laporan-kerjapraktik-pte-bppt
 
    cd laporan-kerjapraktik-pte-bppt
    ```
